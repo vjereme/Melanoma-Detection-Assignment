@@ -45,5 +45,5 @@ The final model successfully addressed overfitting issues, resulting in improved
 1. Upgrad
 
 ## Contact
-Created by [@vjereme]
+Created by [@vjereme](https://github.com/vjereme)
 
